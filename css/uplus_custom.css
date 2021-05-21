@@ -63,6 +63,10 @@ a{text-decoration:none; color:#333;}
 	margin-right:13px;
 }
 
+.gnb_left h2 input{
+	border:1px solid #ccc;
+	box-sizing:border-box;
+}
 
 .gnb_left h2{
 	font-size:16px;
@@ -223,6 +227,10 @@ TABLE input{
 .input_size02{
 	width:44%;
 }
+.input_size03{
+	width:80px;
+	height:22px;
+}
 
 .table_border{
 	border-left:2px solid #ccc;
@@ -249,11 +257,11 @@ TABLE input{
 .con03_table02 tr:nth-child(odd){background-color: #f1f1f1 !important;}
 .con03_table02 tr:nth-child(even){background-color: #f9f9f9 !important;}
 
-.con04_table02 tr:nth-child(odd){background-color: #f1f1f1 !important;}
-.con04_table02 tr:nth-child(even){background-color: #f9f9f9 !important;}
-
 .con03_table02 tr:nth-child(odd){background-color: #f1f1f1 !important;}
 .con03_table02 tr:nth-child(even){background-color: #f9f9f9 !important;}
+
+.con04_table02 tr:nth-child(odd){background-color: #f1f1f1 !important;}
+.con04_table02 tr:nth-child(even){background-color: #f9f9f9 !important;}
 
 .con04_table02 tr:nth-child(odd){background-color: #f1f1f1 !important;}
 .con04_table02 tr:nth-child(even){background-color: #f9f9f9 !important;}
